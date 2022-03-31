@@ -6,7 +6,7 @@
 //     cy.get('#email')
 // })
 
-
+// New test comment
 // it('By Class', () => {
 //     cy.visit("https://docs.cypress.io/api/commands/get#Timeouts")
 //     cy.get('.DocSearch.DocSearch-Button').click()
